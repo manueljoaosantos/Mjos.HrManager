@@ -9,12 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mjos.HrManager.Infrastructu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mjos.HrManager.Core", "Mjos.HrManager.Core\Mjos.HrManager.Core.csproj", "{E6C02252-7213-4429-9A13-F9011BEE3239}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E8368B2-C481-4E28-ADB7-BC98D76A142E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mjos.HrManager.UnitTests", "Mjos.HrManager.UnitTests\Mjos.HrManager.UnitTests.csproj", "{999E9EDD-9883-48FA-BC52-EB836018997C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC507023-F451-423E-84F4-A68EF656A07B}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mjos.HrManager.UnitTests", "Mjos.HrManager.UnitTests\Mjos.HrManager.UnitTests.csproj", "{999E9EDD-9883-48FA-BC52-EB836018997C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
