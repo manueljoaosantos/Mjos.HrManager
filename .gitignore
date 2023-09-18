@@ -7,3 +7,4 @@
 /Mjos.HrManager.Infrastructure/obj
 /.vs
 /Mjos.HrManager.UnitTests/obj
+/Mjos.HrManager.Application/bin/Debug/net7.0
