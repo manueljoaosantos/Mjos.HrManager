@@ -1,4 +1,6 @@
-﻿namespace Mjos.HrManager.Core.Exceptions
+﻿using System.Runtime.Serialization;
+
+namespace Mjos.HrManager.Core.Exceptions
 {
     public class BirthDateCannotBeInTheFutureException : Exception
     {
