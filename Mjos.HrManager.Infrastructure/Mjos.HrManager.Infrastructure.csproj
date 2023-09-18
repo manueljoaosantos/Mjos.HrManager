@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mjos.HrManager.Core\Mjos.HrManager.Core.csproj" />
+  </ItemGroup>
+
 </Project>
